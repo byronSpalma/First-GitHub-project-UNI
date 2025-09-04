@@ -1,2 +1,2 @@
 # First-GitHub-project-UNI
-Trying out GitHub and VSC as a exercise in UNI, creating simple code functions nothing serious.
+Trying out GitHub and VSC as an exercise in UNI, creating simple code functions nothing serious.
